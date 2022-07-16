@@ -115,6 +115,7 @@ public class Animation {
         frameImages.add(frameImage);
         // them thoi gian de chuyen den frameimage tiep theo
         delayFrames.add(new Double(timeToNextFrame));
+       
         
     }
     // dung de ve hinh chu nhat chua hinh anh
